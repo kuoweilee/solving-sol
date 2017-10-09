@@ -1,5 +1,6 @@
 Solving Sol
 ===========
+This is Wade's file
 
 ![Sol LeWitt Reference Image](http://solvingsol.com/screenshots/thumbs/391-amiccolis-index.html.png)
 
