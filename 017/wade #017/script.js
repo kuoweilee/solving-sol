@@ -19,7 +19,7 @@ function draw() {
 
   //V
   for (var i = 0; i < LineWidth; i = i + lineSpace) {
-    line(i + margin, 0, i + margin, 1000)
+    line(i + margin, 0, i + margin, canvasHeight)
   }
   //H
   for (i = 0; i < canvasHeight; i = i + lineSpace) {
